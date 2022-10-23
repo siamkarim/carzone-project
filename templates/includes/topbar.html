@@ -30,9 +30,9 @@
                                {% comment %} { <a class="nav-link"></i> href="{% url 'logout' %}">Logout</a>
                                <form action="{% url 'logout' %}" method="POST" id ="logout">
                                 {% csrf_token %}
-                               <input type ="hidden"> {% endcomment %}
+                               <input type ="hidden">
                                </form>
-                          
+                               {% endcomment %}
                             </li> 
 
                     
