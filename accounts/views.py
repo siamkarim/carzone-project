@@ -56,20 +56,20 @@ def register(request):
 def dashboard(request):
     return render(request, 'accounts/dashboard.html')
 
-def logout(request):
-    if request.method == 'GET':
-        auth.logout(request)
-        messages.success(request, 'you are successfully logged out')
-        return redirect(request, 'home')
-       
-    return redirect( 'home') 
-        
 # def logout(request):
-#     if request.method == 'POST':
-#         print("post-request")
+#     if request.method == 'GET':
 #         auth.logout(request)
-#         return redirect('home')
-#     else:
-#         print(request.method)
-#         auth.logout(request)
-#         return redirect ('home')        
+#         messages.success(request, 'you are successfully logged out')
+#         return redirect(request, 'home')
+       
+#     return redirect( 'home') 
+        
+def logout(request):
+    if request.method == 'POST':
+        print("post-request")
+        auth.logout(request)
+        return redirect('home')
+    else:
+        print(request.method)
+        auth.logout(request)
+        return redirect ('home')        
