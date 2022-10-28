@@ -60,14 +60,21 @@ def dashboard(request):
 #     if request.method == 'GET':
 #         auth.logout(request)
 #         messages.success(request, 'you are successfully logged out')
-#         return redirect(request, 'home')
+#         return redirect('home')
        
 #     return redirect( 'home') 
+
+# def logout(request):
+#     if request.method == 'POST':
+#         auth.logout(request)
+#         return redirect('home')
+#     return redirect('home')    
         
 def logout(request):
     if request.method == 'POST':
         print("post-request")
         auth.logout(request)
+        #messages.success(request, 'you are successfully logged out')
         return redirect('home')
     else:
         print(request.method)

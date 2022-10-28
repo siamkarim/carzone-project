@@ -17,22 +17,22 @@
                     </li>
                     
                     <li>
-                       {% comment %} <a href="javascript:{document.getElementById('logout').submit()}" class="sign-out"><i class="fa fa-sign-out"></i> Logout</a>
+                       {% comment %} <a href="javascript:{document.getElementById('logout').submit()}" class="sign-in"><i class="fa fa-sign-out"></i> Logout</a>
                         <form action="{% url 'logout' %}" id="Logout" method="POST">
                             {% csrf_token %}
                             <input type="hidden">
-                        </form>   {% endcomment %}
+                        </form>    {% endcomment %}
                         {% comment %} {{ request.user }} | <a href="#" onClick="document.getElementById('logout').submit()"><button type="button">Logout</button></a>
                        <form id="logout" method="GET" action="{% url 'logout' %}">
                              {% comment %} {% csrf_token %} {% endcomment %}
                               {% comment %} <input type="hidden">
                                </form> {% endcomment %}
 
-                            <a class="nav-link" href="{% url 'logout' %}">Logout</a>
+                             <a class="sign-in" href="{% url 'logout' %}"> <i class="fa fa-sign-out"></i>Logout</a>
                                <form action="{% url 'logout' %}" method="POST" id ="logout">
                                 {% csrf_token %}
                                <input type ="hidden">
-                               </form>
+                               </form> 
                               
                             </li> 
 

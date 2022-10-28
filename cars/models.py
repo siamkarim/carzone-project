@@ -86,7 +86,7 @@ class Car(models.Model):
         ('5', '5'),
         ('6', '6'),
     )
-    car_tittle = models.CharField(max_length=255)
+    car_title = models.CharField(max_length=255)
     state = models.CharField(choices=state_choice, max_length=100)
     city = models.CharField(max_length=100)
     color = models.CharField(max_length=100)
@@ -116,7 +116,7 @@ class Car(models.Model):
     created_date = models.DateTimeField(default=datetime.now, blank= True)
 
     def __str__(self):
-        return self.car_tittle
+        return self.car_title
     
 
      
