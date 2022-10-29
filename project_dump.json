@@ -1,0 +1,979 @@
+[
+{
+    "model": "cars.car",
+    "pk": 1,
+    "fields": {
+        "car_title": "2017 Ferrari 488 GTB",
+        "state": "AR",
+        "city": "Austi",
+        "color": "White",
+        "model": "488 GTB",
+        "year": 2017,
+        "condition": "Used",
+        "price": 663298,
+        "description": "<p>The&nbsp;<strong>Ferrari 488</strong>&nbsp;(Type F142M) is a&nbsp;<a href=\"https://en.wikipedia.org/wiki/Rear_mid-engine,_rear-wheel_drive_layout\" title=\"Rear mid-engine, rear-wheel drive layout\">mid-engine</a>&nbsp;<a href=\"https://en.wikipedia.org/wiki/Sports_car\" title=\"Sports car\">sports car</a>&nbsp;produced by the Italian automobile manufacturer&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ferrari\" title=\"Ferrari\">Ferrari</a>. The car replaced the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ferrari_458\" title=\"Ferrari 458\">458</a>, being the first mid-engine Ferrari to use a turbocharged V8 since the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ferrari_F40\" title=\"Ferrari F40\">F40</a>. It was succeeded by the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ferrari_F8\" title=\"Ferrari F8\">Ferrari F8</a>.</p>\r\n\r\n<p>The car is powered by a 3.9-litre&nbsp;<a href=\"https://en.wikipedia.org/wiki/Twin-turbocharged\" title=\"Twin-turbocharged\">twin-turbocharged</a>&nbsp;<a href=\"https://en.wikipedia.org/wiki/V8_engine\" title=\"V8 engine\">V8 engine</a>, smaller in displacement but generating a higher power output than the 458&#39;s&nbsp;<a href=\"https://en.wikipedia.org/wiki/Naturally_aspirated_engine\" title=\"Naturally aspirated engine\">naturally aspirated engine</a>. The 488 GTB was named &quot;The Supercar of the Year 2015&quot; by car magazine&nbsp;<em><a href=\"https://en.wikipedia.org/wiki/Top_Gear_(magazine)\" title=\"Top Gear (magazine)\">Top Gear</a></em>, as well as becoming&nbsp;<em><a href=\"https://en.wikipedia.org/wiki/Motor_Trend\" title=\"Motor Trend\">Motor Trend</a></em>&#39;s 2017 &quot;Best Driver&#39;s Car&quot;.<a href=\"https://en.wikipedia.org/wiki/Ferrari_488#cite_note-7\">[7]</a>&nbsp;<a href=\"https://en.wikipedia.org/wiki/Jeremy_Clarkson\" title=\"Jeremy Clarkson\">Jeremy Clarkson</a>&nbsp;announced the 488 Pista as his 2019 Supercar of the Year.<a href=\"https://en.wikipedia.org/wiki/Ferrari_488#cite_note-8\">[8]</a>&nbsp;The 488 was succeeded by the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ferrari_F8_Tributo\" title=\"Ferrari F8 Tributo\">F8 Tributo</a>&nbsp;in February 2019.</p>",
+        "car_photo": "photos/2022/10/21/1902536891.jpg",
+        "car_photo_1": "photos/2022/10/21/1902536917.jpg",
+        "car_photo_2": "photos/2022/10/21/1902537043.jpg",
+        "car_photo_3": "photos/2022/10/21/1902537077.jpg",
+        "car_photo_4": "photos/2022/10/21/1902537082.jpg",
+        "features": "Cruise Control,Seat Heating,Alarm System,Reversing Camera,Direct Fuel Injection,Auto Start/Stop",
+        "body_style": "Sport",
+        "engine": "Ferrari F154 V8 engine",
+        "transmission": "Automatic",
+        "interior": "Grey",
+        "miles": 28532,
+        "doors": "2",
+        "passenger": 3,
+        "vin_no": "1FUJA6CV74DM34063",
+        "milage": 1,
+        "fuel_type": "Octen",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2022-10-21T21:11:25"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 2,
+    "fields": {
+        "car_title": "2017 Ford Edge",
+        "state": "AK",
+        "city": "Austi",
+        "color": "Black",
+        "model": "Edge 2017",
+        "year": 2018,
+        "condition": "Used",
+        "price": 689654,
+        "description": "<p>The&nbsp;<strong>Ford Edge</strong>&nbsp;is a range of&nbsp;<a href=\"https://en.wikipedia.org/wiki/Crossover_(automobile)\" title=\"Crossover (automobile)\">crossover SUVs</a>&nbsp;manufactured by the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_Motor_Company\" title=\"Ford Motor Company\">Ford Motor Company</a>. Introduced for the 2007 model year, the Edge is the first&nbsp;<a href=\"https://en.wikipedia.org/wiki/Mid-size_CUV\" title=\"Mid-size CUV\">mid-size CUV</a>&nbsp;marketed by Ford in North America; the model line is currently in its second generation. Deriving its name from a trim package of the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_Ranger_(Americas)\" title=\"Ford Ranger (Americas)\">Ford Ranger</a>, the Ford Edge is positioned between the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_Escape\" title=\"Ford Escape\">Ford Escape</a>&nbsp;and the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_Explorer\" title=\"Ford Explorer\">Ford Explorer</a>&nbsp;within the Ford product line.</p>\r\n\r\n<p>Sharing its underpinnings with the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_Fusion_(Americas)\" title=\"Ford Fusion (Americas)\">Ford Fusion sedan</a>, Ford has also produced the model line as the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Lincoln_MKX\" title=\"Lincoln MKX\">Lincoln MKX</a>&nbsp;(since 2019, the Lincoln Nautilus); the first generation was also produced as the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Mazda_CX-9\" title=\"Mazda CX-9\">Mazda CX-9</a>. The second generation is also marketed by&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_of_Europe\" title=\"Ford of Europe\">Ford of Europe</a>, positioned between the Kuga (Escape) and the Explorer PHEV.</p>\r\n\r\n<p>All production of the Ford Edge is sourced from&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_Motor_Company_of_Canada\" title=\"Ford Motor Company of Canada\">Ford of Canada</a>&nbsp;at&nbsp;<a href=\"https://en.wikipedia.org/wiki/Oakville_Assembly\" title=\"Oakville Assembly\">Oakville Assembly</a>&nbsp;(<a href=\"https://en.wikipedia.org/wiki/Oakville,_Ontario\" title=\"Oakville, Ontario\">Oakville, Ontario</a>) alongside the Nautilus</p>",
+        "car_photo": "photos/2022/10/21/1901478607.jpg",
+        "car_photo_1": "photos/2022/10/21/1901478618.jpg",
+        "car_photo_2": "photos/2022/10/21/1901478646.jpg",
+        "car_photo_3": "photos/2022/10/21/1901478687.jpg",
+        "car_photo_4": "photos/2022/10/21/1901478672.jpg",
+        "features": "Air Conditioning,Seat Heating,Alarm System,Power Steering,Reversing Camera",
+        "body_style": "SUV",
+        "engine": "V36 engine",
+        "transmission": "Automatic",
+        "interior": "Grey",
+        "miles": 15653,
+        "doors": "4",
+        "passenger": 4,
+        "vin_no": "5J6RM4850CL703159",
+        "milage": 3,
+        "fuel_type": "Petrol",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2022-10-21T21:14:59"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 3,
+    "fields": {
+        "car_title": "2017 Ford F-250 Super Duty",
+        "state": "ID",
+        "city": "dalas",
+        "color": "Merun",
+        "model": "2017 Ford F-250 Super Duty",
+        "year": 2019,
+        "condition": "Used",
+        "price": 320000,
+        "description": "<p>The&nbsp;<strong>Ford Super Duty</strong>&nbsp;(short for F-Series Super Duty) is a series of heavy-duty pickup trucks produced by the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_Motor_Company\" title=\"Ford Motor Company\">Ford Motor Company</a>&nbsp;since the 1999 model year. Slotted above the consumer-oriented Ford&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_F-Series\" title=\"Ford F-Series\">F-150</a>, the Super Duty trucks are an expansion of the Ford F-Series range, from the F-250 to the F-550. Rather than adapting lighter-duty trucks for heavier use, Super Duty trucks have been designed as a dedicated variant of the Ford F-Series, including pickup trucks and&nbsp;<a href=\"https://en.wikipedia.org/wiki/Chassis_cab\" title=\"Chassis cab\">chassis-cab</a>&nbsp;vehicles; the Ford F-450 is the largest pickup truck offered for sale in North America.</p>\r\n\r\n<p>Currently in their fourth generation, Super Duty trucks use a separate chassis from the F-150, including heavier-duty frame and chassis components, which allows for heavier payloads and towing capabilities. With a&nbsp;<a href=\"https://en.wikipedia.org/wiki/Gross_vehicle_weight_rating\" title=\"Gross vehicle weight rating\">GVWR</a>&nbsp;over 8,500&nbsp;lb (3,900&nbsp;kg), Super Duty pickups are&nbsp;<a href=\"https://en.wikipedia.org/wiki/Truck_classification\" title=\"Truck classification\">Class 2 and 3</a>&nbsp;trucks; chassis cab trucks are offered in Class 4 and 5 sizes. The model line also offers&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_Power_Stroke_engine\" title=\"Ford Power Stroke engine\">Ford PowerStroke</a>&nbsp;V8 diesel engines as an option.</p>\r\n\r\n<p>Alongside pickup trucks and chassis cabs, the Super Duty line includes medium-duty F-Series trucks (F-650 and F-750); the Super Duty pickup truck also served as the basis for the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_Excursion\" title=\"Ford Excursion\">Ford Excursion</a>&nbsp;full-sized SUV.</p>\r\n\r\n<p>Ford F-250 to F-550 Super Duty trucks are assembled at the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Kentucky_Truck_Assembly\" title=\"Kentucky Truck Assembly\">Kentucky Truck Plant</a>&nbsp;in&nbsp;<a href=\"https://en.wikipedia.org/wiki/Louisville,_Kentucky\" title=\"Louisville, Kentucky\">Louisville, Kentucky</a>, while medium-duty&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_F-650\" title=\"Ford F-650\">F-650 and F-750s</a>&nbsp;are assembled at&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ohio_Assembly\" title=\"Ohio Assembly\">Ohio Assembly</a>&nbsp;in&nbsp;<a href=\"https://en.wikipedia.org/wiki/Avon_Lake,_Ohio\" title=\"Avon Lake, Ohio\">Avon Lake, Ohio</a>. Prior to 2016, medium-duty trucks were assembled in Mexico under the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Navistar_International#Blue_Diamond_Truck\" title=\"Navistar International\">Blue Diamond Truck</a>&nbsp;joint venture with Navistar International.</p>",
+        "car_photo": "photos/2022/10/21/1894300894.jpg",
+        "car_photo_1": "photos/2022/10/21/1894300905.jpg",
+        "car_photo_2": "photos/2022/10/21/1894300920.jpg",
+        "car_photo_3": "photos/2022/10/21/1900155012.jpg",
+        "car_photo_4": "photos/2022/10/21/1900155133.jpg",
+        "features": "Cruise Control,Alarm System,Auto Start/Stop,Wind Deflector",
+        "body_style": "Sport",
+        "engine": "Edge V8 engine",
+        "transmission": "Automatic",
+        "interior": "white",
+        "miles": 1035,
+        "doors": "4",
+        "passenger": 4,
+        "vin_no": "JT2BF22K6Y0283641",
+        "milage": 4,
+        "fuel_type": "Octen",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2022-10-21T21:18:04"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 4,
+    "fields": {
+        "car_title": "2017 Jaguar F-PACE",
+        "state": "GA",
+        "city": "panama",
+        "color": "Merun",
+        "model": "2017 Jaguar F-PACE",
+        "year": 2016,
+        "condition": "Used",
+        "price": 40000,
+        "description": "<p>The&nbsp;<strong>Jaguar F-Pace</strong>&nbsp;(X761) is a&nbsp;<a href=\"https://en.wikipedia.org/wiki/Compact_executive_car\" title=\"Compact executive car\">compact luxury</a>&nbsp;<a href=\"https://en.wikipedia.org/wiki/Crossover_SUV\" title=\"Crossover SUV\">crossover SUV</a>&nbsp;made by&nbsp;<a href=\"https://en.wikipedia.org/wiki/Jaguar_Land_Rover\" title=\"Jaguar Land Rover\">Jaguar Land Rover</a>, a British&nbsp;<a href=\"https://en.wikipedia.org/wiki/Automaker\" title=\"Automaker\">car manufacturer</a>, under their&nbsp;<a href=\"https://en.wikipedia.org/wiki/Jaguar_Cars\" title=\"Jaguar Cars\">Jaguar marque</a>. It is the first model to be built by Jaguar in the SUV class. It was formally announced at the&nbsp;<a href=\"https://en.wikipedia.org/wiki/North_American_International_Auto_Show#2015\" title=\"North American International Auto Show\">2015 North American International Auto Show</a>&nbsp;in Detroit, with sales commencing in 2016 following an unveiling at the&nbsp;<a href=\"https://en.wikipedia.org/wiki/International_Motor_Show_Germany#2015\" title=\"International Motor Show Germany\">International Motor Show Germany</a>&nbsp;in Frankfurt in September 2015.<a href=\"https://en.wikipedia.org/wiki/Jaguar_F-Pace#cite_note-4\">[4]</a>&nbsp;The design of the F-Pace is based on the 2013&nbsp;<a href=\"https://en.wikipedia.org/wiki/Jaguar_C-X17\" title=\"Jaguar C-X17\">Jaguar C-X17</a>&nbsp;concept car.<a href=\"https://en.wikipedia.org/wiki/Jaguar_F-Pace#cite_note-BBC_News_120115-5\">[5]</a>&nbsp;The 2017 Jaguar F-PACE has been named the honorary winner of the 2017 World Car of the Year and World Car Design of the Year Awards at the&nbsp;<a href=\"https://en.wikipedia.org/wiki/New_York_International_Auto_Show\" title=\"New York International Auto Show\">New York International Auto Show</a>.<a href=\"https://en.wikipedia.org/wiki/Jaguar_F-Pace#cite_note-6\">[6]</a></p>\r\n\r\n<p>The F-Pace is built at&nbsp;<a href=\"https://en.wikipedia.org/wiki/Jaguar_Land_Rover\" title=\"Jaguar Land Rover\">Jaguar Land Rover</a>&#39;s&nbsp;<a href=\"https://en.wikipedia.org/wiki/Solihull_plant\" title=\"Solihull plant\">Solihull plant</a>&nbsp;along with the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Range_Rover_Velar\" title=\"Range Rover Velar\">Range Rover Velar</a>&nbsp;and employs an additional 1,300</p>\r\n\r\n<p>An F-Pace production prototype made its public debut on 4 July 2015, by leading out the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Team_Sky\" title=\"Team Sky\">Team Sky</a>&nbsp;professional&nbsp;<a href=\"https://en.wikipedia.org/wiki/Cycle_racing\" title=\"Cycle racing\">cycle racing</a>&nbsp;team during&nbsp;<em>Le Grand D&eacute;part</em>&nbsp;in&nbsp;<a href=\"https://en.wikipedia.org/wiki/Utrecht\" title=\"Utrecht\">Utrecht</a>,&nbsp;<a href=\"https://en.wikipedia.org/wiki/Netherlands\" title=\"Netherlands\">Netherlands</a>&nbsp;at the start of the&nbsp;<a href=\"https://en.wikipedia.org/wiki/2015_Tour_de_France\" title=\"2015 Tour de France\">2015 Tour de France</a>. The car made its official public d&eacute;but at the September 2015&nbsp;<a href=\"https://en.wikipedia.org/wiki/Frankfurt_Motor_Show#2015\" title=\"Frankfurt Motor Show\">Frankfurt Motor Show</a>.<a href=\"https://en.wikipedia.org/wiki/Jaguar_F-Pace#cite_note-7\">[7]</a>&nbsp;Ahead of the Frankfurt Motor Show, an F-Pace, driven by professional&nbsp;<a href=\"https://en.wikipedia.org/wiki/Stunt_driver\" title=\"Stunt driver\">stunt driver</a>&nbsp;<a href=\"https://en.wikipedia.org/wiki/Terry_Grant_(stunt_driver)\" title=\"Terry Grant (stunt driver)\">Terry Grant</a>, performed a world-record-breaking 360 degree&nbsp;<a href=\"https://en.wikipedia.org/wiki/Loop-the-loop\" title=\"Loop-the-loop\">loop-the-loop</a>.<a href=\"https://en.wikipedia.org/wiki/Jaguar_F-Pace#cite_note-8\">[8]</a>&nbsp;Customer deliveries started in April 2016 in Europe and in May 2016 in the United States.</p>",
+        "car_photo": "photos/2022/10/21/1902932503.jpg",
+        "car_photo_1": "photos/2022/10/21/1902932514.jpg",
+        "car_photo_2": "photos/2022/10/21/1902932528.jpg",
+        "car_photo_3": "photos/2022/10/21/1902932542.jpg",
+        "car_photo_4": "",
+        "features": "Cruise Control,Alarm System,ParkAssist,Auto Start/Stop,Wind Deflector",
+        "body_style": "SUV",
+        "engine": "V36 engine",
+        "transmission": "Automatic",
+        "interior": "Grey",
+        "miles": 36005,
+        "doors": "3",
+        "passenger": 3,
+        "vin_no": "5J6RM4850CL703159",
+        "milage": 10,
+        "fuel_type": "Petrol",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2022-10-21T21:20:49"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 5,
+    "fields": {
+        "car_title": "2018 Toyota 4Runner",
+        "state": "IN",
+        "city": "dhaka",
+        "color": "grey",
+        "model": "2018 Toyota 4Runner",
+        "year": 2018,
+        "condition": "Used",
+        "price": 90000,
+        "description": "<p>The&nbsp;<strong>Toyota 4Ru</strong></p>\r\n\r\n<p>The&nbsp;<strong>Toyota 4Runner</strong>&nbsp;is an&nbsp;<a href=\"https://en.wikipedia.org/wiki/SUV\" title=\"SUV\">SUV</a>&nbsp;manufactured by the Japanese automaker&nbsp;<a href=\"https://en.wikipedia.org/wiki/Toyota\" title=\"Toyota\">Toyota</a>&nbsp;and marketed globally since 1984, across five generations. In Japan, it was marketed as the&nbsp;<strong>Toyota Hilux Surf</strong>&nbsp;(<a href=\"https://en.wikipedia.org/wiki/Japanese_language\" title=\"Japanese language\">Japanese</a>:&nbsp;\u30c8\u30e8\u30bf\u30fb\u30cf\u30a4\u30e9\u30c3\u30af\u30b9\u30b5\u30fc\u30d5,&nbsp;<a href=\"https://en.wikipedia.org/wiki/Hepburn_romanization\" title=\"Hepburn romanization\">Hepburn</a>:&nbsp;<em>Toyota Hairakkusus\u0101fu</em>)&nbsp;and was withdrawn from the market in 2009. The original 4Runner was a&nbsp;<a href=\"https://en.wikipedia.org/wiki/Compact_SUV\" title=\"Compact SUV\">compact SUV</a>&nbsp;and little more than a Toyota&nbsp;<a href=\"https://en.wikipedia.org/wiki/Toyota_Hilux\" title=\"Toyota Hilux\">Hilux</a>&nbsp;pickup truck with a fiberglass shell over the bed, but the model has since undergone significant independent development into a cross between a compact and a mid-size SUV. All 4Runners have been built in Japan at Toyota&#39;s&nbsp;<a href=\"https://en.wikipedia.org/wiki/Tahara_plant\" title=\"Tahara plant\">plant</a>&nbsp;in&nbsp;<a href=\"https://en.wikipedia.org/wiki/Tahara,_Aichi\" title=\"Tahara, Aichi\">Tahara, Aichi</a>, or at the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Hino_Motors\" title=\"Hino Motors\">Hino Motors</a>&nbsp;(a Toyota subsidiary) plant in&nbsp;<a href=\"https://en.wikipedia.org/wiki/Hamura\" title=\"Hamura\">Hamura</a>.</p>\r\n\r\n<p>The name &quot;4Runner&quot; was created by copywriter Robert Nathan with the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Saatchi_%26_Saatchi\" title=\"Saatchi &amp; Saatchi\">Saatchi &amp; Saatchi</a>&nbsp;advertising company. The agency held contests to invent new names for Toyota&#39;s forthcoming vehicles. The name 4Runner was created as a play on the term &quot;forerunner,&quot; since the sport utility vehicle was the first of its kind for Toyota with an emphasis on its 4x4 capability and seating for four.</p>\r\n\r\n<p><strong>nner</strong>&nbsp;is an&nbsp;<a href=\"https://en.wikipedia.org/wiki/SUV\" title=\"SUV\">SUV</a>&nbsp;manufactured by the Japanese automaker&nbsp;<a href=\"https://en.wikipedia.org/wiki/Toyota\" title=\"Toyota\">Toyota</a>&nbsp;and marketed globally since 1984, across five generations. In Japan, it was marketed as the&nbsp;<strong>Toyota Hilux Surf</strong>&nbsp;(<a href=\"https://en.wikipedia.org/wiki/Japanese_language\" title=\"Japanese language\">Japanese</a>:&nbsp;\u30c8\u30e8\u30bf\u30fb\u30cf\u30a4\u30e9\u30c3\u30af\u30b9\u30b5\u30fc\u30d5,&nbsp;<a href=\"https://en.wikipedia.org/wiki/Hepburn_romanization\" title=\"Hepburn romanization\">Hepburn</a>:&nbsp;<em>Toyota Hairakkusus\u0101fu</em>)&nbsp;and was withdrawn from the market in 2009. The original 4Runner was a&nbsp;<a href=\"https://en.wikipedia.org/wiki/Compact_SUV\" title=\"Compact SUV\">compact SUV</a>&nbsp;and little more than a Toyota&nbsp;<a href=\"https://en.wikipedia.org/wiki/Toyota_Hilux\" title=\"Toyota Hilux\">Hilux</a>&nbsp;pickup truck with a fiberglass shell over the bed, but the model has since undergone significant independent development into a cross between a compact and a mid-size SUV. All 4Runners have been built in Japan at Toyota&#39;s&nbsp;<a href=\"https://en.wikipedia.org/wiki/Tahara_plant\" title=\"Tahara plant\">plant</a>&nbsp;in&nbsp;<a href=\"https://en.wikipedia.org/wiki/Tahara,_Aichi\" title=\"Tahara, Aichi\">Tahara, Aichi</a>, or at the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Hino_Motors\" title=\"Hino Motors\">Hino Motors</a>&nbsp;(a Toyota subsidiary) plant in&nbsp;<a href=\"https://en.wikipedia.org/wiki/Hamura\" title=\"Hamura\">Hamura</a>.</p>\r\n\r\n<p>The name &quot;4Runner&quot; was created by copywriter Robert Nathan with the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Saatchi_%26_Saatchi\" title=\"Saatchi &amp; Saatchi\">Saatchi &amp; Saatchi</a>&nbsp;advertising company. The agency held contests to invent new names for Toyota&#39;s forthcoming vehicles. The name 4Runner was created as a play on the term &quot;forerunner,&quot; since the sport utility vehicle was the first of its kind for Toyota with an emphasis on its 4x4 capability and seating for four.</p>",
+        "car_photo": "photos/2022/10/21/1893633875.jpg",
+        "car_photo_1": "photos/2022/10/21/1893633879.jpg",
+        "car_photo_2": "photos/2022/10/21/1893633884.jpg",
+        "car_photo_3": "photos/2022/10/21/1896836883.jpg",
+        "car_photo_4": "photos/2022/10/21/1896836887.jpg",
+        "features": "Airbags,ParkAssist,Auto Start/Stop",
+        "body_style": "SUV",
+        "engine": "V36 engine",
+        "transmission": "Automatic",
+        "interior": "Grey",
+        "miles": 3600,
+        "doors": "3",
+        "passenger": 1,
+        "vin_no": "5XYKTCA69DG347850",
+        "milage": 5,
+        "fuel_type": "Petrol",
+        "no_of_owners": "2",
+        "is_featured": true,
+        "created_date": "2022-10-21T21:27:23"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 6,
+    "fields": {
+        "car_title": "2018 Toyota Corolla",
+        "state": "TX",
+        "city": "uttara",
+        "color": "White",
+        "model": "2018 Toyota 4Runner",
+        "year": 2014,
+        "condition": "Used",
+        "price": 30000,
+        "description": "<p>The name&nbsp;<em><a href=\"https://en.wikipedia.org/wiki/Corolla_(headgear)\" title=\"Corolla (headgear)\">Corolla</a></em>&nbsp;is part of Toyota&#39;s naming tradition of using names derived from the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Toyota_Crown\" title=\"Toyota Crown\">Toyota Crown</a>&nbsp;for sedans, with&nbsp;<em>&quot;<a href=\"https://en.wiktionary.org/wiki/corolla\" title=\"wikt:corolla\">corolla</a>&quot;</em>&nbsp;<a href=\"https://en.wikipedia.org/wiki/Latin\" title=\"Latin\">Latin</a>&nbsp;for &quot;small crown&quot;.<a href=\"https://en.wikipedia.org/wiki/Toyota_Corolla#cite_note-3\">[3]</a>&nbsp;The Corolla has always been exclusive in Japan to&nbsp;<em><a href=\"https://en.wikipedia.org/wiki/Toyota_Corolla_Store\" title=\"Toyota Corolla Store\">Toyota Corolla Store</a></em>&nbsp;locations, and manufactured in Japan with a twin, called the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Toyota_Sprinter\" title=\"Toyota Sprinter\">Toyota Sprinter</a>&nbsp;until 2000. From 2006 to 2018 in Japan and much of the world, and from 2018 to 2020 in Taiwan, the hatchback companion had been called the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Toyota_Auris\" title=\"Toyota Auris\">Toyota Auris</a>.</p>\r\n\r\n<p>Early models were mostly&nbsp;<a href=\"https://en.wikipedia.org/wiki/Rear-wheel_drive\" title=\"Rear-wheel drive\">rear-wheel drive</a>, while later models have been&nbsp;<a href=\"https://en.wikipedia.org/wiki/Front-wheel_drive\" title=\"Front-wheel drive\">front-wheel drive</a>.&nbsp;<a href=\"https://en.wikipedia.org/wiki/Four-wheel_drive\" title=\"Four-wheel drive\">Four-wheel drive</a>&nbsp;versions have also been produced, and it has undergone several major redesigns. The Corolla&#39;s traditional competitors have been the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Nissan_Sunny\" title=\"Nissan Sunny\">Nissan Sunny</a>, introduced the same year as the Corolla in Japan and the later&nbsp;<a href=\"https://en.wikipedia.org/wiki/Nissan_Sentra\" title=\"Nissan Sentra\">Nissan Sentra</a>,&nbsp;<a href=\"https://en.wikipedia.org/wiki/Nissan_Sylphy\" title=\"Nissan Sylphy\">Nissan Sylphy</a>,&nbsp;<a href=\"https://en.wikipedia.org/wiki/Honda_Civic\" title=\"Honda Civic\">Honda Civic</a>&nbsp;and&nbsp;<a href=\"https://en.wikipedia.org/wiki/Mitsubishi_Lancer\" title=\"Mitsubishi Lancer\">Mitsubishi Lancer</a>. The Corolla&#39;s chassis designation code is &quot;E&quot;, as described in Toyota&#39;s chassis and engine codes</p>",
+        "car_photo": "photos/2022/10/21/1900893299.jpg",
+        "car_photo_1": "photos/2022/10/21/1900893311.jpg",
+        "car_photo_2": "photos/2022/10/21/1900893319.jpg",
+        "car_photo_3": "photos/2022/10/21/1900893329.jpg",
+        "car_photo_4": "photos/2022/10/21/1900893391.jpg",
+        "features": "Cruise Control,Audio Interface,Reversing Camera",
+        "body_style": "SUV",
+        "engine": "V36 engine",
+        "transmission": "Automatic",
+        "interior": "Grey",
+        "miles": 10032,
+        "doors": "6",
+        "passenger": 4,
+        "vin_no": "5XYKTCA69DG347850",
+        "milage": 12,
+        "fuel_type": "Petrol",
+        "no_of_owners": "2",
+        "is_featured": true,
+        "created_date": "2022-10-21T21:30:28"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 1,
+    "fields": {
+        "first_name": "siam",
+        "last_name": "hossain",
+        "designation": "CEO",
+        "photo": "photos/2022/10/21/Screenshot_2021-12-20-21-21-43-30.jpg",
+        "facebook_link": "http://www.facebook.com",
+        "twitter_link": "http://www.twitter.com",
+        "google_plus_link": "http://www.google.com",
+        "created_date": "2022-10-21T21:09:29.285"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 2,
+    "fields": {
+        "first_name": "Stone",
+        "last_name": "Smith",
+        "designation": "Django Developer",
+        "photo": "photos/2022/10/21/avatar-2.jpg",
+        "facebook_link": "http://www.facebook.com",
+        "twitter_link": "http://www.twitter.com",
+        "google_plus_link": "http://www.google.com",
+        "created_date": "2022-10-21T21:10:21.808"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 3,
+    "fields": {
+        "first_name": "rahim",
+        "last_name": "Carolyn",
+        "designation": "Creative Director",
+        "photo": "photos/2022/10/21/avatar-4.jpg",
+        "facebook_link": "http://www.facebook.com",
+        "twitter_link": "http://www.twitter.com",
+        "google_plus_link": "http://www.google.com",
+        "created_date": "2022-10-21T21:11:01.540"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 4,
+    "fields": {
+        "first_name": "SK",
+        "last_name": "ARIF",
+        "designation": "Manager",
+        "photo": "photos/2022/10/21/IMG_4609.png",
+        "facebook_link": "http://www.facebook.com",
+        "twitter_link": "http://www.twitter.com",
+        "google_plus_link": "http://www.google.com",
+        "created_date": "2022-10-21T21:51:57.056"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 5,
+    "fields": {
+        "first_name": "SK",
+        "last_name": "ARIF",
+        "designation": "Manager",
+        "photo": "photos/2022/10/21/IMG_4609_OYLCuB7.png",
+        "facebook_link": "http://www.facebook.com",
+        "twitter_link": "http://www.twitter.com",
+        "google_plus_link": "http://www.google.com",
+        "created_date": "2022-10-21T22:08:32.704"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 1,
+    "fields": {
+        "first_name": "Rakib",
+        "last_name": "Neel",
+        "car_id": 1,
+        "customer_need": "I'd like to know your best price for this",
+        "car_title": "2017 Ferrari 488 GTB",
+        "city": "Uttara",
+        "state": "Dhaka",
+        "email": "15103231@iubat.edu",
+        "phone": "01581882514",
+        "message": "i want to know more about it.",
+        "user_id": 0,
+        "create_date": "2022-10-24T23:51:12.307"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 2,
+    "fields": {
+        "first_name": "rahim",
+        "last_name": "hossain",
+        "car_id": 4,
+        "customer_need": "I'd like to test drive this",
+        "car_title": "2017 Jaguar F-PACE",
+        "city": "Austi",
+        "state": "Dhaka",
+        "email": "manager@manager.com",
+        "phone": "01718618935",
+        "message": "this one 2nd test",
+        "user_id": 1,
+        "create_date": "2022-10-24T23:54:01.187"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 3,
+    "fields": {
+        "first_name": "Siam",
+        "last_name": "Smith",
+        "car_id": 2,
+        "customer_need": "I'd like a history report for this",
+        "car_title": "2017 Ford Edge",
+        "city": "Austi",
+        "state": "Dhaka",
+        "email": "siam@gmail.com",
+        "phone": "01718618935",
+        "message": "want to know history about this car",
+        "user_id": 1,
+        "create_date": "2022-10-25T00:31:37.624"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 4,
+    "fields": {
+        "first_name": "Siam",
+        "last_name": "Smith",
+        "car_id": 2,
+        "customer_need": "I'm interested in this",
+        "car_title": "2017 Ford Edge",
+        "city": "Austi",
+        "state": "Dhaka",
+        "email": "siam@gmail.com",
+        "phone": "01718618935",
+        "message": "dfsd",
+        "user_id": 1,
+        "create_date": "2022-10-25T00:32:02.189"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 5,
+    "fields": {
+        "first_name": "Siam",
+        "last_name": "Smith",
+        "car_id": 5,
+        "customer_need": "I'd like to know your best price for this",
+        "car_title": "2018 Toyota 4Runner",
+        "city": "Austi",
+        "state": "Dhaka",
+        "email": "siam@gmail.com",
+        "phone": "5365325",
+        "message": "lowest price?",
+        "user_id": 1,
+        "create_date": "2022-10-25T00:37:30.906"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 6,
+    "fields": {
+        "first_name": "Siam",
+        "last_name": "nur",
+        "car_id": 5,
+        "customer_need": "I'm interested in this",
+        "car_title": "2018 Toyota 4Runner",
+        "city": "Dabline",
+        "state": "uttara",
+        "email": "os@gmailcom",
+        "phone": "0654325",
+        "message": "test",
+        "user_id": 10,
+        "create_date": "2022-10-28T14:51:56.992"
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$180000$JOxsQnOGOsu9$cA2MT0UxzGd4ahNhlGsMyvmUf99+E3RUKYcCLI5SA2w=",
+        "last_login": "2022-10-28T11:12:04.200",
+        "is_superuser": true,
+        "username": "siam",
+        "first_name": "Siam",
+        "last_name": "Smith",
+        "email": "siamhossain518@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2022-10-21T21:08:00",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$180000$lrHyIGOhms0v$GAcip0mxVqp5lKr/PWRodA7sQQNS2W6T2TTqJzSbEVo=",
+        "last_login": "2022-10-22T15:21:13.221",
+        "is_superuser": false,
+        "username": "ccv",
+        "first_name": "Siam",
+        "last_name": "Karim",
+        "email": "15103231@iubat.edu",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-10-22T15:21:12.395",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$180000$Vw0M2vsb9aeu$iYOE4Fj53isTggzCDWInGmWMhFjod2C3DIDnzcMKvnk=",
+        "last_login": "2022-10-22T15:22:03.664",
+        "is_superuser": false,
+        "username": "gggg",
+        "first_name": "Siam",
+        "last_name": "Karim",
+        "email": "siamhossain518@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-10-22T15:22:03.509",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$180000$wljN7mM8Jbxy$OLNn7rh/ww1gGZX2ZrqHVXDl+meNsy4wlTuJfIb1gI8=",
+        "last_login": "2022-10-22T20:19:07.103",
+        "is_superuser": false,
+        "username": "rakib",
+        "first_name": "rakib",
+        "last_name": "Karim",
+        "email": "rakib@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-10-22T20:19:06.443",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$180000$P3Bnh3nM14Ye$uaSPRboXxzF+yMNpvJJ7+L3osq0Mld1hecx81QkspjQ=",
+        "last_login": "2022-10-22T21:07:45.546",
+        "is_superuser": false,
+        "username": "rk",
+        "first_name": "noyon",
+        "last_name": "rk",
+        "email": "rk@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-10-22T21:07:45.201",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$180000$S5SdgKPFyTNX$rFcnhSCeeR3cQbDUPqVzzJ7umLSfAWG8S7BIhxDF7Iw=",
+        "last_login": "2022-10-22T21:19:32.876",
+        "is_superuser": false,
+        "username": "nur",
+        "first_name": "habi",
+        "last_name": "nur",
+        "email": "nur@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-10-22T21:10:51.650",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$180000$nz0IqKxODC4R$ibogWgcGYIH+zdhR6/hl37BuYARb+mBfJHb0YBw3ZUc=",
+        "last_login": "2022-10-28T10:49:07.346",
+        "is_superuser": false,
+        "username": "raihan",
+        "first_name": "raihan",
+        "last_name": "mia",
+        "email": "raihan@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-10-22T22:00:43.299",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "!li68CiliDvr3EwascIalbTGQ2LXGbKL9viCEG5Im",
+        "last_login": "2022-10-27T22:11:48.825",
+        "is_superuser": false,
+        "username": "saium",
+        "first_name": "Saium",
+        "last_name": "Hossain",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-10-23T21:19:09.376",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "!fkk8B92VxNZVkhtoiPLEun5bgfJQRJ6QHX8VEAE5",
+        "last_login": "2022-10-27T23:06:26.897",
+        "is_superuser": false,
+        "username": "saium9",
+        "first_name": "Saium",
+        "last_name": "Hossain",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-10-23T22:12:47.471",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$180000$jnNc2LfEGFb2$60tptPJ4bSWSlPbK4PGkFTW3ey3Wa4ZK4SIeM/nk4cU=",
+        "last_login": "2022-10-28T14:15:11.341",
+        "is_superuser": false,
+        "username": "oskarim",
+        "first_name": "Siam",
+        "last_name": "nur",
+        "email": "os@gmailcom",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-10-28T14:15:01.622",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "6av0lby6hna0q8kb9dkk49z5zii9lsu4",
+    "fields": {
+        "session_data": "Y2ZmMzVkNmIxNGIwMDM1YjlhNDYwMjIzZjIzMjNjNzYyMzE5ODYzMDp7Il9hdXRoX3VzZXJfaWQiOiI2IiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiJhM2U3NTczZDRkMTIwMjU4YTUzNTlmM2EzZWNmZGZhM2E0NzZjZDlkIn0=",
+        "expire_date": "2022-11-05T21:11:15.492"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "8pw8i9413zdua6szn38pj1peffafll69",
+    "fields": {
+        "session_data": "N2UwMTgyZGI5ZWUxYzUxNjkyMDE2Yjg3OGI4MjdkY2NhZDZlYWE2MTp7InNvY2lhbGFjY291bnRfc3RhdGUiOlt7InByb2Nlc3MiOiJsb2dpbiIsInNjb3BlIjoiIiwiYXV0aF9wYXJhbXMiOiIifSwiOFZRWmtDVVlDS1M3Il0sIl9hdXRoX3VzZXJfaWQiOiI3IiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiIzNzY0OWExOTE4YTZlMWQ4N2Y3M2JhZGU1NzlhMDhiYjVjYTJhMzNiIn0=",
+        "expire_date": "2022-11-10T22:08:14.524"
+    }
+},
+{
+    "model": "sites.site",
+    "fields": {
+        "domain": "localhost:8000",
+        "name": "localhost:8000"
+    }
+},
+{
+    "model": "socialaccount.socialapp",
+    "pk": 1,
+    "fields": {
+        "provider": "facebook",
+        "name": "Facebook Login",
+        "client_id": "484086933779401",
+        "secret": "ee44a016d76974638aee3a118e1e4a45",
+        "key": "",
+        "sites": [
+            [
+                "localhost:8000"
+            ]
+        ]
+    }
+},
+{
+    "model": "socialaccount.socialapp",
+    "pk": 2,
+    "fields": {
+        "provider": "google",
+        "name": "Google Login",
+        "client_id": "268490643747-jluj80uvkejtrm3mvi0hdka8pkt7i05u.apps.googleusercontent.com",
+        "secret": "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",
+        "key": "",
+        "sites": [
+            [
+                "localhost:8000"
+            ]
+        ]
+    }
+},
+{
+    "model": "socialaccount.socialaccount",
+    "pk": 1,
+    "fields": {
+        "user": [
+            "saium"
+        ],
+        "provider": "facebook",
+        "uid": "2984069258563591",
+        "last_login": "2022-10-27T22:11:48.714",
+        "date_joined": "2022-10-23T21:19:09.492",
+        "extra_data": "{\"id\": \"2984069258563591\", \"name\": \"Saium Hossain\", \"first_name\": \"Saium\", \"last_name\": \"Hossain\"}"
+    }
+},
+{
+    "model": "socialaccount.socialaccount",
+    "pk": 2,
+    "fields": {
+        "user": [
+            "saium9"
+        ],
+        "provider": "google",
+        "uid": "102093505344602329963",
+        "last_login": "2022-10-27T23:06:26.753",
+        "date_joined": "2022-10-23T22:12:47.540",
+        "extra_data": "{\"id\": \"102093505344602329963\", \"name\": \"Saium Hossain\", \"given_name\": \"Saium\", \"family_name\": \"Hossain\", \"picture\": \"https://lh3.googleusercontent.com/a/ALm5wu07RQAxG29QVMiWk1BflnE4i0_upK7zy1CeVVuZfA=s96-c\", \"locale\": \"en\"}"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2022-10-21T21:09:29.308",
+        "user": [
+            "siam"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "siam",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2022-10-21T21:10:21.810",
+        "user": [
+            "siam"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "2",
+        "object_repr": "Stone",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2022-10-21T21:11:01.543",
+        "user": [
+            "siam"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "3",
+        "object_repr": "rahim",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2022-10-21T21:14:54.333",
+        "user": [
+            "siam"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "2017 Ferrari 488 GTB",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2022-10-21T21:18:00.858",
+        "user": [
+            "siam"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "2017 Ford Edge",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2022-10-21T21:20:45.204",
+        "user": [
+            "siam"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "2017 Ford F-250 Super Duty",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2022-10-21T21:27:18.779",
+        "user": [
+            "siam"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "4",
+        "object_repr": "2017 Jaguar F-PACE",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2022-10-21T21:30:17.112",
+        "user": [
+            "siam"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "5",
+        "object_repr": "2018 Toyota 4Runner",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2022-10-21T21:33:35.064",
+        "user": [
+            "siam"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "6",
+        "object_repr": "2018 Toyota Corolla",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2022-10-21T21:51:57.138",
+        "user": [
+            "siam"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "4",
+        "object_repr": "SK",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2022-10-21T22:08:32.824",
+        "user": [
+            "siam"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "5",
+        "object_repr": "SK",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2022-10-21T22:14:29.604",
+        "user": [
+            "siam"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "6",
+        "object_repr": "2018 Toyota Corolla",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2022-10-23T21:00:07.988",
+        "user": [
+            "siam"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "1",
+        "object_repr": "Facebook Login",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2022-10-23T21:03:09.255",
+        "user": [
+            "siam"
+        ],
+        "content_type": [
+            "sites",
+            "site"
+        ],
+        "object_id": "1",
+        "object_repr": "localhost:8000",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2022-10-23T22:07:35.298",
+        "user": [
+            "siam"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "2",
+        "object_repr": "Google Login",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+        "action_time": "2022-10-25T00:30:40.828",
+        "user": [
+            "siam"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "1",
+        "object_repr": "siam",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+        "action_time": "2022-10-27T22:11:16.514",
+        "user": [
+            "siam"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "2",
+        "object_repr": "Google Login",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Client id\", \"Secret key\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+        "action_time": "2022-10-27T22:36:00.679",
+        "user": [
+            "siam"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "2",
+        "object_repr": "Google Login",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Client id\", \"Secret key\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+        "action_time": "2022-10-28T10:43:27.974",
+        "user": [
+            "siam"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "1",
+        "object_repr": "siam",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Email address\"]}}]"
+    }
+}
+]
